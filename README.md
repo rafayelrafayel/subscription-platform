@@ -1,5 +1,5 @@
 # subscription-platform
-Test task
+Simple code for Subscription
 
 # To run migrations use this command
 
